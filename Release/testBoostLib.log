@@ -1,0 +1,18 @@
+﻿  test1.cpp
+test1.cpp(96): warning C4018: '<': signed/unsigned mismatch
+test1.cpp(141): warning C4018: '<': signed/unsigned mismatch
+test1.cpp(193): warning C4018: '<': signed/unsigned mismatch
+test1.cpp(234): warning C4018: '<': signed/unsigned mismatch
+test1.cpp(355): warning C4101: 'a': unreferenced local variable
+test1.cpp(572): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+test1.cpp(585): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+test1.cpp(586): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+test1.cpp(767): warning C4101: 'temp': unreferenced local variable
+test1.cpp(828): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  102 of 1923 functions ( 5.3%) were compiled, the rest were copied from previous compilation.
+    33 functions were new in current compilation
+    127 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  testBoostLib.vcxproj -> D:\OneDrive - vietscience\CTDL\DSA-Assignment1-master\Release\testBoostLib.exe
+  testBoostLib.vcxproj -> D:\OneDrive - vietscience\CTDL\DSA-Assignment1-master\Release\testBoostLib.pdb (Full PDB)
